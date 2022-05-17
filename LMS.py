@@ -105,7 +105,4 @@ except Exception as e:
     print("Something went wrong , Please check")
 
 
-# l = LMS("List_of_books","Python Library")
-#
-# l.display_books()
 
